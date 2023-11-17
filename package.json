@@ -1,0 +1,37 @@
+{
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {
+        "build": "turbo run build",
+        "compile": "turbo run compile:js compile:typedefs",
+        "lint": "turbo run test:lint",
+        "publish-packages": "turbo run publish-packages",
+        "style:fix": "turbo run style:fix",
+        "test": "turbo run test:unit:browser test:unit:node",
+        "test:live-with-test-validator": "turbo run test:live-with-test-validator",
+        "test:live-with-test-validator:setup": "./scripts/setup-test-validator.sh"
+    },
+    "devDependencies": {
+        "@commitlint/config-conventional": "^17.6.7",
+        "@solana/eslint-config-solana": "^1.0.2",
+        "@solana/prettier-config-solana": "^0.0.3",
+        "commitlint": "^17.6.7",
+        "eslint-config-turbo": "^1.10.13",
+        "turbo": "^1.10.16"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "packageManager": "pnpm@8.5.1",
+    "pnpm": {
+        "overrides": {
+            "@babel/traverse": "^7.23.2",
+            "jsdom": "^22",
+            "mock-socket": "^9.3.0",
+            "shelljs": ">=0.8.5"
+        }
+    },
+    "prettier": "@solana/prettier-config-solana"
+}
