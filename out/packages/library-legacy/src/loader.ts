@@ -189,10 +189,14 @@ export class Loader {
       );
 
       // Delay between sends in an attempt to reduce rate limit errors
-      if (connection._rpcEndpoint.includes('solana.com')) {
-        const REQUESTS_PER_SECOND = 4;
-        await sleep(1000 / REQUESTS_PER_SECOND);
-      }
+      app.get('/some/path', function(req, res) {
+      let url = req.param("url"),
+          host = urlLib.parse(url).host;
+      // BAD: the host of `url` may be controlled by an attacker
+      if (host.includes("example.com")) {
+          res.redirect(url);
+        }
+      });
 
       offset += chunkSize;
       array = array.slice(chunkSize);
