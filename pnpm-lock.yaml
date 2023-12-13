@@ -1627,8 +1627,8 @@ importers:
         specifier: ^29.7.0
         version: 29.7.0(@types/node@18.18.9)
       jest-dev-server:
-        specifier: ^9.0.0
-        version: 9.0.1
+        specifier: ^9.0.2
+        version: 9.0.2
       jest-fetch-mock-fork:
         specifier: ^3.0.4
         version: 3.1.2
@@ -9737,15 +9737,15 @@ packages:
       - babel-plugin-macros
       - supports-color
 
-  /jest-dev-server@9.0.1:
-    resolution: {integrity: sha512-eqpJKSvVl4M0ojHZUPNbka8yEzLNbIMiINXDsuMF3lYfIdRO2iPqy+ASR4wBQ6nUyR3OT24oKPWhpsfLhgAVyg==}
+  /jest-dev-server@9.0.2:
+    resolution: {integrity: sha512-Zc/JB0IlNNrpXkhBw+h86cGrde/Mey52KvF+FER2eyrtYJTHObOwW7Iarxm3rPyTKby5+3Y2QZtl8pRz/5GCxg==}
     engines: {node: '>=16'}
     dependencies:
       chalk: 4.1.2
       cwd: 0.10.0
       find-process: 1.4.7
       prompts: 2.4.2
-      spawnd: 9.0.1
+      spawnd: 9.0.2
       tree-kill: 1.2.2
       wait-on: 7.2.0(debug@4.3.4)
     transitivePeerDependencies:
@@ -13437,8 +13437,8 @@ packages:
     resolution: {integrity: sha512-gRjMgK5uFjbCvdibeGJuy3I5OYz6VLoVdsOJdA6wV0WlfQVLFueoqMxwwYD9RODdgb6oUIvlRlsyFSiQkMKu0g==}
     dev: true
 
-  /spawnd@9.0.1:
-    resolution: {integrity: sha512-vaMk8E9CpbjTYToBxLXowDeArGf1+yI7A6PU6Nr57b2g8BVY8nRi5vTBj3bMF8UkCrMdTMyf/Lh+lrcrW2z7pw==}
+  /spawnd@9.0.2:
+    resolution: {integrity: sha512-nl8DVHEDQ57IcKakzpjanspVChkMpGLuVwMR/eOn9cXE55Qr6luD2Kn06sA0ootRMdgrU4tInN6lA6ohTNvysw==}
     engines: {node: '>=16'}
     dependencies:
       signal-exit: 4.1.0
