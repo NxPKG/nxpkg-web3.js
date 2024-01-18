@@ -22,7 +22,7 @@ importers:
         version: 1.0.2(@typescript-eslint/eslint-plugin@6.11.0)(@typescript-eslint/parser@6.11.0)(eslint-plugin-jest@27.6.0)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-simple-import-sort@10.0.0)(eslint-plugin-sort-keys-fix@1.1.2)(eslint@8.54.0)(typescript@5.2.2)
       '@solana/prettier-config-solana':
         specifier: ^0.0.3
-        version: 0.0.3(prettier@3.1.0)
+        version: 0.0.3(prettier@3.2.4)
       commitlint:
         specifier: ^18.4.2
         version: 18.4.2(typescript@5.2.2)
@@ -86,10 +86,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -149,10 +149,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -224,10 +224,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -297,10 +297,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -364,10 +364,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -440,10 +440,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -525,10 +525,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -585,10 +585,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -639,10 +639,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -702,10 +702,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -775,10 +775,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -869,10 +869,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1047,7 +1047,7 @@ importers:
         version: 10.2.0(eslint@8.54.0)
       eslint-plugin-prettier:
         specifier: ^5.0.0
-        version: 5.0.1(eslint-config-prettier@9.0.0)(eslint@8.54.0)(prettier@2.8.8)
+        version: 5.0.1(eslint-config-prettier@9.0.0)(eslint@8.54.0)(prettier@3.2.4)
       esm:
         specifier: ^3.2.25
         version: 3.2.25
@@ -1064,8 +1064,8 @@ importers:
         specifier: ^3.0.1
         version: 3.1.1
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       rimraf:
         specifier: 5.0.1
         version: 5.0.1
@@ -1159,10 +1159,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1246,10 +1246,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1343,10 +1343,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1422,13 +1422,13 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       jest-websocket-mock:
         specifier: ^2.4.1
         version: 2.5.0
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1497,10 +1497,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1570,10 +1570,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1606,7 +1606,7 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       jest-watch-master:
         specifier: ^1.0.0
         version: 1.0.0(jest-validate@29.7.0)(jest@29.7.0)
@@ -1689,10 +1689,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1771,10 +1771,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1840,10 +1840,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -1907,10 +1907,10 @@ importers:
         version: 2.1.2(eslint@8.54.0)(jest@29.7.0)
       jest-runner-prettier:
         specifier: ^1.0.0
-        version: 1.0.0(jest@29.7.0)(prettier@2.8.8)
+        version: 1.0.0(jest@29.7.0)(prettier@3.2.4)
       prettier:
-        specifier: ^2.8
-        version: 2.8.8
+        specifier: ^3.2
+        version: 3.2.4
       test-config:
         specifier: workspace:*
         version: link:../test-config
@@ -4801,12 +4801,12 @@ packages:
       typescript: 5.2.2
     dev: true
 
-  /@solana/prettier-config-solana@0.0.3(prettier@3.1.0):
+  /@solana/prettier-config-solana@0.0.3(prettier@3.2.4):
     resolution: {integrity: sha512-69lOncqTcp7Q/yQIU7R4/nQ6Ejir0TlYiUMcOM/z1PHsiDRF6qL+Jzfy8J9j5euDAR5VCoh0kM5lzaB/sdWgCA==}
     peerDependencies:
       prettier: ^3.0.2
     dependencies:
-      prettier: 3.1.0
+      prettier: 3.2.4
     dev: true
 
   /@solana/spl-token@0.3.9(@solana/web3.js@1.87.6):
@@ -7577,7 +7577,7 @@ packages:
       rambda: 7.5.0
     dev: true
 
-  /eslint-plugin-prettier@5.0.1(eslint-config-prettier@9.0.0)(eslint@8.54.0)(prettier@2.8.8):
+  /eslint-plugin-prettier@5.0.1(eslint-config-prettier@9.0.0)(eslint@8.54.0)(prettier@3.2.4):
     resolution: {integrity: sha512-m3u5RnR56asrwV/lDC4GHorlW75DsFfmUcjfCYylTUs85dBRnB7VM6xG8eCMJdeDRnppzmxZVf1GEPJvl1JmNg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -7593,7 +7593,7 @@ packages:
     dependencies:
       eslint: 8.54.0
       eslint-config-prettier: 9.0.0(eslint@8.54.0)
-      prettier: 2.8.8
+      prettier: 3.2.4
       prettier-linter-helpers: 1.0.0
       synckit: 0.8.5
     dev: true
@@ -10320,7 +10320,7 @@ packages:
       - '@jest/test-result'
       - jest-runner
 
-  /jest-runner-prettier@1.0.0(jest@29.7.0)(prettier@2.8.8):
+  /jest-runner-prettier@1.0.0(jest@29.7.0)(prettier@3.2.4):
     resolution: {integrity: sha512-da4LdL12MyUo6DPsebcsmi1pOrWr3o3K5MxL5IAyqe99Lb4j3SpH4HIDGc4rHCAUJvvkeEi2Kv1USa5W2Tw65w==}
     peerDependencies:
       jest: '>= 27.0.0'
@@ -10332,7 +10332,7 @@ packages:
       jest-diff: 27.5.1
       jest-runner: 27.5.1
       p-limit: 4.0.0
-      prettier: 2.8.8
+      prettier: 3.2.4
     transitivePeerDependencies:
       - bufferutil
       - canvas
@@ -12424,16 +12424,10 @@ packages:
       fast-diff: 1.3.0
     dev: true
 
-  /prettier@2.8.8:
-    resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
-    engines: {node: '>=10.13.0'}
-    hasBin: true
-
-  /prettier@3.1.0:
-    resolution: {integrity: sha512-TQLvXjq5IAibjh8EpBIkNKxO749UEWABoiIZehEPiY4GNpVdhaFKqSTu+QrlU6D2dPAfubRmtJTi4K4YkQ5eXw==}
+  /prettier@3.2.4:
+    resolution: {integrity: sha512-FWu1oLHKCrtpO1ypU6J0SbK2d9Ckwysq6bHj/uaCP26DxrPpppCLQRGVuqAxSTvhF00AcvDRyYrLNW7ocBhFFQ==}
     engines: {node: '>=14'}
     hasBin: true
-    dev: true
 
   /pretty-format@26.6.2:
     resolution: {integrity: sha512-7AeGuCYNGmycyQbCqd/3PWH4eOoX/OiCa0uphp57NVTeAGdJGaAliecxwBDHYQCIvrW7aDBZCYeNTP/WX69mkg==}
