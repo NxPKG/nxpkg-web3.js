@@ -21,8 +21,8 @@ importers:
         specifier: ^1.0.2
         version: 1.0.2(@typescript-eslint/eslint-plugin@6.11.0)(@typescript-eslint/parser@6.11.0)(eslint-plugin-jest@27.6.0)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-simple-import-sort@10.0.0)(eslint-plugin-sort-keys-fix@1.1.2)(eslint@8.54.0)(typescript@5.2.2)
       '@solana/prettier-config-solana':
-        specifier: ^0.0.3
-        version: 0.0.3(prettier@3.1.0)
+        specifier: ^0.0.4
+        version: 0.0.4(prettier@3.1.0)
       commitlint:
         specifier: ^18.4.2
         version: 18.4.2(typescript@5.2.2)
@@ -4801,10 +4801,10 @@ packages:
       typescript: 5.2.2
     dev: true
 
-  /@solana/prettier-config-solana@0.0.3(prettier@3.1.0):
-    resolution: {integrity: sha512-69lOncqTcp7Q/yQIU7R4/nQ6Ejir0TlYiUMcOM/z1PHsiDRF6qL+Jzfy8J9j5euDAR5VCoh0kM5lzaB/sdWgCA==}
+  /@solana/prettier-config-solana@0.0.4(prettier@3.1.0):
+    resolution: {integrity: sha512-8kNkSb7h4DkJlDn4C8v0V2IJQhAswPE4kHE45xAp6eKDEJw7PlHsiYIm46A6owpr57W3KS/xnTVVGE4p/5PijA==}
     peerDependencies:
-      prettier: ^3.0.2
+      prettier: ^3.1.0
     dependencies:
       prettier: 3.1.0
     dev: true
